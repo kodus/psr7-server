@@ -1,5 +1,8 @@
 {
-    "name": "nyholm/psr7-server",
+    "name": "kodus/psr7-server",
+    "replace": {
+        "nyholm/psr7-server": "^0.3"
+    },
     "description": "Helper classes to handle PSR-7 server requests",
     "license": "MIT",
     "keywords": ["psr-7", "psr-17"],
